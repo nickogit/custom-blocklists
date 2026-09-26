@@ -1,0 +1,83 @@
+#
+# apple telemetry/ads blocklist
+#
+#
+
+#metrics and analyitcs
+metrics.icloud.com
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+iphonesubmissions.apple.com
+radarsubmissions.apple.com
+idiagnostics.apple.com
+diagassets.apple.com
+crashreport.apple.com
+diagnostics.apple.com
+iphonesubmissions-old.apple.com
+books-analytics-events.apple.com
+stocks-analytics-events.apple.com
+weather-analytics-events.apple.com
+dzc-metrics.mzstatic.com
+metrics.mzstatic.com
+internalcheck.apple.com
+pancake.apple.com
+pancake.cdn-apple.com.akadns.net
+
+#ads
+advertising.apple.com
+iad.apple.com
+*.iadsdk.apple.com
+iadsdk.apple.com
+api-adservices.apple.com
+news.iadsdk.apple.com
+iadcontent.apple.com
+iadmoo.apple.com
+iadworkbench.apple.com
+launch.apple.com
+webproxy-advp.iad-apple.com.akadns.net
+
+#unobservered / monitoring
+outsideapple.apple.com
+zeusmedia.apple.com
+configuration.apple.com
+gateway.fe.apple-dns.net
+wu-calculator.apple.com
+aidc.apple.com
+cp4.apple.com
+
+#siri, dictation, and apple intelligence
+guzzoni.apple.com
+*.smoot.apple.com
+smoot.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+cp4.cloudflare.com
+apple-relay.apple.com
+
+#apple private relay
+mask.icloud.com
+mask-h2.icloud.com
+mask-api.icloud.com
+
+
+-------BREAK---------
+
+
+#location services
+# configuration.ls.apple.com
+# iphone-ld.apple.com
+
+#unknown
+#commnat-cohort-gc.ess.apple.com
+#commnat-cohort.ess.apple.com
+#commnat-main-gc.ess.apple.com
+#commnat-main.ess.apple.com
+#basejumper.apple.com
+#init-kt.apple.com
+#nc-pod1-smp-device.apple.com
+#profile.ess.apple.com
+#query.ess.apple.com
+#static.ess.apple.com
+#static.ips.apple.com
+#tbsc.apple.com
