@@ -11,5 +11,5 @@ Personal Telemetry/Ad Blocklists without breaking services
 ## Usage
 
 ```bash
-git clone https://git.nposerv.com/nickogit/custom-blocklists.git
+git clone https://github.com/nickogit/custom-blocklists.git
 cd custom-blocklists
